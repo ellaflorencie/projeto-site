@@ -1,2 +1,2 @@
 # projeto-site
- prode de um site do curso
+ projeto de um site do curso
